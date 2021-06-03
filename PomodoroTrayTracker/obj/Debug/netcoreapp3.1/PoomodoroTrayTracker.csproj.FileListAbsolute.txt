@@ -1,0 +1,16 @@
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.exe
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.deps.json
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.runtimeconfig.json
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.runtimeconfig.dev.json
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.dll
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\PoomodoroTrayTracker.pdb
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.csprojAssemblyReference.cache
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.Form1.resources
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.csproj.GenerateResource.cache
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.AssemblyInfoInputs.cache
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.AssemblyInfo.cs
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.csproj.CoreCompileInputs.cache
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.dll
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.pdb
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\obj\Debug\netcoreapp3.1\PoomodoroTrayTracker.genruntimeconfig.cache
+D:\PetProjects\PomodoroTrayTracker\PoomodoroTrayTracker\PoomodoroTrayTracker\bin\Debug\netcoreapp3.1\donut_chart.ico
